@@ -1,0 +1,96 @@
+Fake:
+Tomar bebidas quentes para matar o coronavírus
+Tomar liquidos quentes para matar o coronavírus
+Tomar água quente para matar o coronavírus
+Água quente mata o coronavírus
+Chá quente mata o coronavírus
+Vitamina C cura coronavírus
+coronavírus veio dos animais
+água com limão que cura coronavírus
+Vitamina C cura COVID-19
+COVID-19 veio dos animais
+água com limão que cura COVID-19
+O vírus se propaga no ar
+O vírus se espalha no ar
+Pode se produzir álcool em gel em casa
+Álcool em gel pode ser produzido em casa com apenas dois ingredientes
+Álcool em gel pode ser produzido em casa
+Gargarejar com água morna evita que o vírus vá para os pulmões
+Gargarejar com água salgada evita que o vírus vá para os pulmões
+Gargarejar com água quente que o vírus vá para os pulmões
+Água morna com alho serve como tratamento para o coronavírus
+Água com alho serve como tratamento para o coronavírus
+máscaras podem causar infecção na garganta
+máscaras podem causar síndromes respiratórias
+mulher afirma que o enxofre é a cura para o coronavírus
+Chá de artemísia é a cura para a Covid-19
+Chá de artemísia é a cura para o coronavírus
+coronavírus torna homem infértil
+Covid-19 torna homem infértil
+Governo anuncia vacina do novo coronavírus
+Governo anuncia vacina do novo COVID-19
+café tem substâncias que combatem o COVID-19
+Idoso que sair de casa perderá a aposentadoria
+Idoso que sair de casa terá aposentadoria suspensa
+Coronavírus surgiu de inseticidas
+cura do COVID-19 por café
+plástico bolha pode conter coronavírus
+plástico bolha pode conter COVID-19
+Vacina contra o Covid-19 foi encontrada
+Vacina contra o coronavírus foi descoberta
+Desinfetantes antibactericidas não funciona contra a COVID-19
+Desinfetantes antibactericidas não têm eficácia contra o coronavírus
+Desinfetantes antibactericidas não têm eficácia contra a COVID-19
+Desinfetantes antibactericidas não funcionam
+Desinfetantes não funciona contra a COVID-19
+Desinfetantes não têm eficácia contra o coronavírus
+Desinfetantes não têm eficácia contra a COVID-19
+Urina e estrume de vaca cura o novo coronavírus
+Urina e estrume de vaca cura a COVID-19
+Ingestão de álcool combate o vírus
+Ingerir álcool ajuda a combater o vírus
+Cocaína cura contra o vírus
+Cocaína previne contra o vírus
+Cocaína mate contra o vírus
+Cocaína cura contra o coronavírus
+Cocaína previne contra o coronavírus
+Cocaína mate contra o coronavírus
+Cocaína cura contra o COVID-19
+Cocaína previne contra o COVID-19
+Cocaína mate contra o COVID-19
+Prender a respiração por 10 segundos indica se a pessoa tem COVID-19
+Prender a respiração por 10 segundos indica se a pessoa tem o coronavírus
+Vacina da gripe aumenta as chances de contrair COVID-19
+Vacina da gripe aumenta os riscos de adoecer por coronavírus
+Vacina da gripe aumenta as chances de contrair coronavírus
+a vacina da gripe estaria infectada com o coronavírus
+a vacina da gripe estaria infectada com o COVID-19
+a vacina da gripe contém o COVID-19
+a vacina da gripe possui o COVID-19
+a vacina da gripe contém o coronavírus
+a vacina da gripe possui o coronavírus
+Quem segue as regras de distanciamento tem mais chance contrair coronavírus
+usar máscaras enfraquece o sistema imunológico
+usar máscaras baixa o sistema imunológico
+Animais de estimação podem transmitir o coronavírus aos humanos
+Animais de estimação podem transmitir a COVID-19
+cães e gatos infectaram humanos com a COVID-19
+cães e gatos infectaram humanos com o coronavírus
+
+
+
+
+True:
+Não é recomendado que se produza álcool em gel em casa
+Pratos frios não interferem na resistência do vírus, de acordo com a pesquisadora
+Pratos quentes não interferem na resistência do vírus, de acordo com a pesquisadora
+Brasil tem mais de 1 milhão de casos confirmados de COVID-19
+Brasil tem mais de 1 milhão de casos confirmados de coronavírus
+Brasil ultrapassa 1 milhão de casos confirmados de coronavírus
+Brasil ultrapassa 1 milhão de casos confirmados de COVID-19
+O Brasil está testando menos do que deveria
+O Brasil está teste muito pouco
+
+
+
+
